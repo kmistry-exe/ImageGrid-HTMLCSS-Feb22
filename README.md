@@ -12,6 +12,9 @@ A responsive photo gallery website built using HTML and CSS. The project showcas
 - Static gallery design (no JavaScript)
 - Ideal for showcasing wallpapers or portfolios
 
+## 🌐 Live Demo
+You can view the live demo of the project [here](https://kmistry-exe.github.io/ImageGrid-HTMLCSS-Feb22/).
+
 ---
 
 📁 **Project Type**: Frontend – Static Website  
